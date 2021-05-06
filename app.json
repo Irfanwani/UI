@@ -1,0 +1,12 @@
+{
+  "name": "UI",
+  "displayName": "UI",
+  "expo": {
+    "name": "UI",
+    "slug": "UI",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
