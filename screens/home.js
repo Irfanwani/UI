@@ -6,7 +6,7 @@ import {Card, FAB} from 'react-native-paper'
 
 const renderItem = ({item}) => (
     <Card style={styles.card}>
-        <Text style={{fontSize: 25}}>{item.title} ths</Text>
+        <Text style={{fontSize: 25}}>{item.title} dsjfgbsdjf</Text>
     </Card>
 )
 
